@@ -8,6 +8,10 @@
 1. Нора Галь. Слово живое и мёртвое. [Ozon](https://www.ozon.ru/context/detail/id/3365636/)
 2. Лев Успенский. Слово о словах. [Ozon](https://www.ozon.ru/context/detail/id/4068000/)
 
+Статьи
+
+1. Пазельская А. Г., Соловьев А. Н. Метод определения эмоций в текстах на русском языке. [PDF](http://www.dialog-21.ru/digests/dialog2011/materials/ru/pdf/50.pdf)
+
 _Разобрать_
 
 - [Best Books about Linguistics](https://www.goodreads.com/list/show/796.Best_Books_about_Linguistics)
